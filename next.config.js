@@ -1,3 +1,10 @@
 module.exports = {
-  reactStrictMode: true,
+  images:{
+    domains:[
+      "images.pexels.com",
+      "platform-lookaside.fbsbx.com",
+      "firebasestorage.googleapis.com",
+      "upload.wikimedia.org"
+    ]
+  }
 }
